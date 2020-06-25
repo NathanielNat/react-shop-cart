@@ -11,3 +11,20 @@ h1{
   margin: 0;
   margin-bottom: 0.5rem;
 }
+
+.input{
+  border: 1px solid #333;
+  border-radius: 0.3rem;
+  padding: 0.25rem;
+  width: 7em; 
+  /* width: 10vw; */
+
+}
+
+select{
+  margin-left: .6rem;
+}
+.equals{
+  font-weight: bold;
+  font-size: 2rem;
+}
